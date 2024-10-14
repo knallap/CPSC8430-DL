@@ -1,0 +1,1 @@
+python knallap_test.py $'data/testing_data/feat' $'hw2_output.txt'
